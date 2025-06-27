@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop ABC",
+        "category": "Elektronika",
+        "price": 1200.0,
+        "store_name": "SklepX"
+    },
+    {
+        "id": 2,
+        "name": "Książka DEF",
+        "category": "Książki",
+        "price": 45.0,
+        "store_name": "KsięgarniaY"
+    },
+    {
+        "id": 3,
+        "name": "Odkurzacz",
+        "category": "Dom i ogród",
+        "price": 300.0,
+        "store_name": "SklepZ"
+    },
+    {
+        "id": 4,
+        "name": "Smartphone",
+        "category": "Elektronika",
+        "price": 800.0,
+        "store_name": "SklepX"
+    },
+    {
+        "id": 5,
+        "name": "Mata do jogi",
+        "category": "Sport",
+        "price": 50.0,
+        "store_name": "SklepSport"
+    }
+]

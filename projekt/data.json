@@ -1,0 +1,7 @@
+[
+    {"id": 1, "name": "Telefon XYZ", "category": "Elektronika", "price": 799.99, "store_name": "SklepA"},
+    {"id": 2, "name": "Laptopy ABC", "category": "Elektronika", "price": 3999.50, "store_name": "SklepB"},
+    {"id": 3, "name": "Słuchawki DEF", "category": "Elektronika", "price": 150.75, "store_name": "SklepA"},
+    {"id": 4, "name": "Książka XYZ", "category": "Książki", "price": 39.99, "store_name": "Księgarnia"},
+    {"id": 5, "name": "Fartuch kuchenny", "category": "Dom i ogród", "price": 25.00, "store_name": "SklepC"}
+]
